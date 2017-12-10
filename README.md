@@ -1,1 +1,1 @@
-"# IrmaBet" 
+A loto type of game programmed with C++. It was graduation project from C++ academy, which I attended back in Lithuania, Siauliai university. In order to make this idea into reality, I had to learn how to work with graphics, events, and sound to create this game. I got not only a great experience but also max marks for this project.
